@@ -1,1 +1,1 @@
-﻿# Digital Trading Platform with Django and React
+﻿# Digital Trading Platform with Django and RabbitMQ
